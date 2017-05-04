@@ -1,1 +1,1 @@
-module.exports = require('./lib/loadstoredata') 
+module.exports = require('./lib/yijing') 
