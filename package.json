@@ -1,6 +1,6 @@
 {
   "name": "yijing",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vous avez une question, le yijing vous apporte un éclairage sur la situation et les évolutions possibles de la demande",
   "main": "index.js",
   "directories": {
