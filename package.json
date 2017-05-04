@@ -1,0 +1,25 @@
+{
+  "name": "yijing",
+  "version": "1.0.0",
+  "description": "Vous avez une question, le yijing vous apporte un éclairage sur la situation et les évolutions possibles de la demande",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albanmartel/yijing.git"
+  },
+  "keywords": [
+    "yijing"
+  ],
+  "author": "Alban MARTEL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albanmartel/yijing/issues"
+  },
+  "homepage": "https://github.com/albanmartel/yijing#readme"
+}
