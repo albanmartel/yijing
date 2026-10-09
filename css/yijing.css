@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    max-width: 800px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+input {
+    padding: 8px;
+    font-size: 16px;
+    width: 60%;
+}
+.resultat {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+}
+#notice {
+    margin-top: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+}
+#oracle {
+    margin-left: 50px;
+    margin-right: 50px;
+    border: solid 15px black;
+    width: 400px;
+    height: 363px;
+    border-radius: 10px;
+}
+#decalage {
+    margin-left: 60px;
+    margin-right: 250px;
+    background-color: #f9f9f9;
+}
+#question {
+    margin-left: 60px;
+    margin-right: 250px;
+    background-color: #f9f9f9;
+}
+body {
+    min-height: 100vh;
+    background-color: #050816;
+    background-image:
+        radial-gradient(1px 1px at 5% 10%, #fff 50%, transparent 100%),
+        radial-gradient(2px 2px at 7% 9%, #dd9797 50%, transparent 100%),
+        radial-gradient(2px 2px at 75% 28%, #dd9797 50%, transparent 100%),
+        radial-gradient(3px 3px at 83% 18%, #ab0707 50%, transparent 100%),
+        radial-gradient(3px 3px at 80% 15%, rgb(126, 149, 239) 50%, transparent 100%),
+        radial-gradient(3px 3px at 55% 18%, #f6f6f6 50%, transparent 100%),
+        radial-gradient(2px 2px at 12% 35%, #fff 50%, transparent 100%),
+        radial-gradient(1px 1px at 18% 80%, #fff 50%, transparent 100%),
+        radial-gradient(1px 1px at 25% 22%, #fff 50%, transparent 100%),
+        radial-gradient(2px 2px at 31% 60%, #fff 50%, transparent 100%),
+        radial-gradient(1px 1px at 38% 12%, #fff 50%, transparent 100%),
+        radial-gradient(1px 1px at 44% 43%, #fff 50%, transparent 100%),
+        radial-gradient(2px 2px at 51% 88%, #fff 50%, transparent 100%),
+        radial-gradient(1px 1px at 58% 27%, #fff 50%, transparent 100%),
+        radial-gradient(1px 1px at 64% 70%, #fff 50%, transparent 100%),
+        radial-gradient(2px 2px at 71% 15%, #fff 50%, transparent 100%),
+        radial-gradient(1px 1px at 77% 52%, #fff 50%, transparent 100%),
+        radial-gradient(1px 1px at 83% 90%, #fff 50%, transparent 100%),
+        radial-gradient(2px 2px at 90% 38%, #fff 50%, transparent 100%),
+        radial-gradient(1px 1px at 96% 65%, #fff 50%, transparent 100%);
+}
+h1 {
+    background-color: #f9f9f9;
+    margin-right: 300px;
+}
